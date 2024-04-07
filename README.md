@@ -1,7 +1,7 @@
 ### Olá Sou Haoh, sejá bem-vindo ao meu perfil 👋
 
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&center=true&vCenter=true&lines=print(%22Future+Cyber+Security+Engineer%22);print(%22Future+Software+Engineer%22);print(%22Threat+Intelligence!%22)"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&center=true&vCenter=true&lines=print(%22+Cyber+Security+Engineer%22);print(%22+Software+Engineer%22);print(%22Threat+Intelligence!%22)"></a>
 </p>
 
 ## 💻 Tecnologias que eu uso/usei
